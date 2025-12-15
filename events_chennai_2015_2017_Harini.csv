@@ -1,0 +1,14 @@
+event_name,start,end,event_type
+Diwali 2015,2015-11-11 00:00,2015-11-11 23:59,festival
+Chennai Floods 2015 (peak),2015-12-01 00:00,2015-12-04 23:59,natural_disaster
+Margazhi Music Season 2015,2015-12-15 00:00,2015-12-31 23:59,cultural_festival
+Pongal 2016,2016-01-14 00:00,2016-01-17 23:59,festival
+Chennai Marathon 2016,2016-01-31 05:00,2016-01-31 11:00,sports
+Republic Day 2016,2016-01-26 00:00,2016-01-26 23:59,public_holiday
+Tamil New Year 2016,2016-04-14 00:00,2016-04-14 23:59,festival
+Independence Day 2016,2016-08-15 00:00,2016-08-15 23:59,public_holiday
+Diwali 2016,2016-10-29 00:00,2016-10-29 23:59,festival
+Margazhi Music Season 2016,2016-12-15 00:00,2016-12-31 23:59,cultural_festival
+Pongal 2017,2017-01-14 00:00,2017-01-17 23:59,festival
+Jallikattu Marina Protest 2017,2017-01-17 00:00,2017-01-23 23:59,public_protest
+Republic Day 2017,2017-01-26 00:00,2017-01-26 23:59,public_holiday
