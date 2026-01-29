@@ -26,16 +26,6 @@ This project analyses Uber traffic data to identify congestion patterns and pred
 - Scikit-learn
 - Jupyter Notebook
 
-## How to Run the Project
-1. Clone the repository  
-2. Install dependencies  
-   `pip install -r requirements.txt`
-3. Run notebooks in this order:
-   - Data Integration
-   - EDA
-   - Peak Hour Analysis
-   - Model Building
-
 ## Results
 - Identified peak congestion during morning and evening hours
 - Predictive model achieved reasonable accuracy in forecasting traffic volume
